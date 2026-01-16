@@ -51,7 +51,7 @@ const Header = () => {
         <div className="flex items-center gap-4">
           <Button variant="default" size="sm" asChild>
            <a href="https://durre-cmd.github.io/portcase/" target="_blank">
-              Try App For Free
+              Try App Prototype For Free
             </a>
           </Button>
         </div>

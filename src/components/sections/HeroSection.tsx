@@ -78,7 +78,7 @@ const HeroSection = () => {
         >
           <Button variant="hero" asChild className="group">
             <a href="https://durre-cmd.github.io/portcase/" target="_blank">
-              Try the App 
+              Try the App Prototype
               <motion.span
                 className="inline-block ml-1"
                 animate={{ x: [0, 4, 0] }}
@@ -88,6 +88,10 @@ const HeroSection = () => {
               </motion.span>
             </a>
           </Button>
+            <Button variant="heroOutline" asChild>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfUQrYwFATigdV7usB4RbAS2oV_ygQgjlSKVyTuUpzMYrUHUA/viewform?usp=sharing" target="_blank" >Join the Early Access List</a>
+          </Button>
+        
          
         </motion.div>
 
